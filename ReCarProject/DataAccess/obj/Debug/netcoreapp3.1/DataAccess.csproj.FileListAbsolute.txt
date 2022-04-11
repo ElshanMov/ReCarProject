@@ -8,6 +8,5 @@ C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataA
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
-C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

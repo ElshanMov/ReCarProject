@@ -6,13 +6,8 @@ using System.Text;
 namespace DataAccess.Abstract
 {
     //Car`la elaqedar DB`da edeceyim prosesleri ehate eden interface
-    public interface ICarDal
+    public interface ICarDal:IEntityRepository<Car>
     {
-        List<Car> GetAll();
-        void Add(Car car);
-        void Delete(Car car);
-        void Update(Car car);
-
-        List<Car> GetAllByBrandId(int brandId);
+        
     }
 }

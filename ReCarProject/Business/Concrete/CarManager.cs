@@ -16,6 +16,18 @@ namespace Business.Concrete
             _carDal = carDal;
         }
 
+        public void Add(Car car)
+        {
+            if (car.Model.Length >= 2 && car.DailyPrice>0)
+            {
+                _carDal.Add(car);
+            }
+            else
+            {
+                Console.WriteLine("Araba ismi minimum 2 karakter olmalıdır. Araba günlük fiyatı 0'dan büyük olmalıdır");
+            }
+        }
+
         public void Delete(Car car)
         {
             _carDal.Delete(car);
@@ -25,5 +37,11 @@ namespace Business.Concrete
         {
             return _carDal.GetAll();
         }
+
+        public List<Car> GetAllByBrandId(int id)
+        {
+            return _carDal.GetAll(x => x.BrandId == id);
+        }
+
     }
 }
