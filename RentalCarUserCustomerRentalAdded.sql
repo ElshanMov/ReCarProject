@@ -1,0 +1,25 @@
+
+CREATE TABLE Users
+(
+  Id INT PRIMARY KEY,
+  FirstName NVARCHAR(25) NOT NULL,
+  LastName NVARCHAR(25) NOT NULL,
+  Email NVARCHAR(50) UNIQUE NOT NULL,
+  [Password] NVARCHAR(50) NOT NULL
+)
+
+CREATE TABLE Customers
+(
+  Id INT PRIMARY KEY,
+  UserId INT FOREIGN KEY REFERENCES Users(Id),
+  CompanyName NVARCHAR(100), 
+)
+
+CREATE TABLE Rentals
+(
+  Id INT PRIMARY KEY,
+  CarId INT FOREIGN KEY REFERENCES Cars(Id),
+  CustomerId INT FOREIGN KEY REFERENCES Customers(Id),
+  RentDate DateTime,
+  ReturnDate DateTime
+)

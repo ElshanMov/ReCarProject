@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Abstract
+namespace Core.Entities
 {
     //IEntity`den implement alanlar DB obyektidir.
     public interface IEntity
