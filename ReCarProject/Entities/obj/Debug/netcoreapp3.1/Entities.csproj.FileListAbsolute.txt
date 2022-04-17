@@ -8,3 +8,6 @@ C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entitie
 C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
 C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
 C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Masaüstü\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Masaüstü\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete

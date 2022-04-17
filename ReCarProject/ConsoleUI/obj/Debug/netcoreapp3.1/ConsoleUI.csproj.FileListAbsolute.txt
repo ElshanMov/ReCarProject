@@ -58,3 +58,6 @@ C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtim
 C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
