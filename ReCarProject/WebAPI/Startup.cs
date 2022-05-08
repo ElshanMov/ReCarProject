@@ -29,10 +29,10 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            services.AddControllers();            
             //IoC Container
-            services.AddSingleton<ICarService,CarManager>();
-            services.AddSingleton<ICarDal, EfCarDal>();
+            //services.AddSingleton<ICarService,CarManager>();
+            //services.AddSingleton<ICarDal, EfCarDal>();
 
         }
 
@@ -43,6 +43,8 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+
+
 
             app.UseHttpsRedirection();
 

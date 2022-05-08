@@ -61,3 +61,8 @@ C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtim
 C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Masaüstü\ReCarProject\ReCarProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll

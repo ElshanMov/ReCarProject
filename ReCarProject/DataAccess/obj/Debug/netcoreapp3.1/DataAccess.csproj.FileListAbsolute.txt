@@ -12,4 +12,7 @@ C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataA
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
 C:\Masaüstü\ReCarProject\ReCarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete

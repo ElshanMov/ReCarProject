@@ -10,7 +10,8 @@ namespace DataAccess.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=RentalCar;Trusted_Connection=true");
+           // optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=RentalCarCamp;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(@"Data Source=SQL8001.site4now.net;Initial Catalog=db_a865f1_elshanmov;User Id=db_a865f1_elshanmov_admin;Password=Camp.2022");
         }
 
         public DbSet<Car> Cars { get; set; }
