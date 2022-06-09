@@ -9,6 +9,7 @@ using System.Text;
 
 namespace DataAccess.Concrete
 {
+    //l wrote for "Plug and Play"
     public class InMemoryCarDal : ICarDal
     {
         List<Car> _cars;

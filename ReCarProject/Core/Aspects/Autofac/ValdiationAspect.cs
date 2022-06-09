@@ -25,7 +25,7 @@ namespace Core.Aspects.Autofac
             var validator = (IValidator)Activator.CreateInstance(_validatorType);
             var entityType = _validatorType.BaseType.GetGenericArguments()[0];
             var entities = invocation.Arguments.Where(p => p.GetType() == entityType);
-            foreach (var entity in entities) //for?each
+            foreach (var entity in entities)
             {
                 ValidationTool.Validate(validator, entity);
             }

@@ -22,7 +22,7 @@ namespace Business.Concrete
         public IResult Add(Rental rental)
         {
             Rental existRental = _rentalDal.Get(x=>x.Id==rental.Id);
-            if (existRental != null && existRental.ReturnDate==DateTime.Now) //Refactor olunmalidir(yanlish yazilib).
+            if (existRental != null && existRental.ReturnDate==DateTime.Now) //It should be refactored. l wrote for testing.
             {
                 return new ErrorResult("The car you want to rent is currently rented.");
             }

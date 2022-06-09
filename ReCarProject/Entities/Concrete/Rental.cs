@@ -7,16 +7,11 @@ namespace Entities.Concrete
 {
     public class Rental : IEntity
     {
-        //CRUD operasyonlarını yazınız.
-        //Yeni müşteriler ekleyiniz.
-        //Arabayı kiralama imkanını kodlayınız.Rental-->Add
-        //Arabanın kiralanabilmesi için arabanın teslim edilmesi gerekmektedir.
+        //The car must be returned before renting.
         public int Id { get; set; }
         public int CarId { get; set; }
         public int CustomerId { get; set; }
         public DateTime RentDate { get; set; }
         public DateTime? ReturnDate { get; set; } = null;
-        public Car Car { get; set; }
-        public Customer Customer { get; set; }
     }
 }

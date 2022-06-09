@@ -6,8 +6,7 @@ using System.Text;
 
 namespace Core.DataAccess
 {
-    //Generic Repository design pattern
-    //Generic Constraint
+    //Generic Constraint:
     // class=> reference type
     // IEntity => IEntity ve ya IEntity`den implement alanlar
     // new() => instance yaradilmasi mumkun olanlar

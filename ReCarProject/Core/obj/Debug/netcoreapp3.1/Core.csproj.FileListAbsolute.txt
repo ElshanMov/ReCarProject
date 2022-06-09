@@ -8,3 +8,13 @@ C:\Masaüstü\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.Assemb
 C:\Masaüstü\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\Masaüstü\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Masaüstü\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Core\obj\Debug\netcoreapp3.1\Core.pdb

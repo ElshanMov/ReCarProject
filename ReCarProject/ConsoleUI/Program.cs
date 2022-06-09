@@ -81,47 +81,47 @@ namespace ConsoleUI
             customerManager.GetAll().Data.ForEach(x => Console.WriteLine(x.CompanyName));
         }
 
-        private static void UserManagerTest()
-        {
-            UserManager userManager = new UserManager(new EfUserDal());
+        //private static void UserManagerTest()
+        //{
+        //    UserManager userManager = new UserManager(new EfUserDal());
 
-            userManager.Add(new User
-            {
-                Id = 1,
-                FirstName = "Ali",
-                LastName = "Yusifov",
-                Email = "Ali.2002@mail.ru",
-                Password = "Rental.P201",
-            });
-            userManager.Add(new User
-            {
-                Id = 2,
-                FirstName = "Isa",
-                LastName = "Heyderov",
-                Email = "Isa.2002@mail.ru",
-                Password = "Rental.P201",
-            });
-            userManager.Add(new User
-            {
-                Id = 3,
-                FirstName = "Subkan",
-                LastName = "Ramazanov",
-                Email = "Subkhan.2002@mail.ru",
-                Password = "Rental.P201",
-            });
+        //    userManager.Add(new User
+        //    {
+        //        Id = 1,
+        //        FirstName = "Ali",
+        //        LastName = "Yusifov",
+        //        Email = "Ali.2002@mail.ru",
+        //        Password = "Rental.P201",
+        //    });
+        //    userManager.Add(new User
+        //    {
+        //        Id = 2,
+        //        FirstName = "Isa",
+        //        LastName = "Heyderov",
+        //        Email = "Isa.2002@mail.ru",
+        //        Password = "Rental.P201",
+        //    });
+        //    userManager.Add(new User
+        //    {
+        //        Id = 3,
+        //        FirstName = "Subkan",
+        //        LastName = "Ramazanov",
+        //        Email = "Subkhan.2002@mail.ru",
+        //        Password = "Rental.P201",
+        //    });
 
-            var result = userManager.GetAll();
-            if (result.Success)
-            {
-                foreach (var user in result.Data)
-                {
-                    Console.WriteLine(user.FirstName + " " + user.LastName);
-                }
-            }
-            else
-            {
-                Console.WriteLine(result.Message);
-            }
-        }
+        //    var result = userManager.GetAll();
+        //    if (result.Success)
+        //    {
+        //        foreach (var user in result.Data)
+        //        {
+        //            Console.WriteLine(user.FirstName + " " + user.LastName);
+        //        }
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine(result.Message);
+        //    }
+        //}
     }
 }

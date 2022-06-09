@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj": {
+    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[6.3.0, )"
             },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -58,6 +62,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
             }
           },
           "imports": [
@@ -75,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,6 +139,14 @@
               "target": "Package",
               "version": "[11.0.1, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.23, )"
@@ -151,18 +167,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,11 +195,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
               },
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -234,18 +250,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
+    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -262,8 +278,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
               }
             }
           }
@@ -277,6 +293,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -292,18 +314,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\WebAPI\\obj\\",
+        "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -320,17 +342,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj"
               },
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
               },
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
+              "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -348,6 +370,10 @@
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[7.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.23, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -384,7 +410,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

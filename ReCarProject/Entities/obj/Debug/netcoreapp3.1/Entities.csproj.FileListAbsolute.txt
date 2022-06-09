@@ -11,3 +11,16 @@ C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entitie
 C:\Masaüstü\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
 C:\Masaüstü\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Masaüstü\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Core.dll
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Masaüstü\Projects\ReCarProject\ReCarProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
