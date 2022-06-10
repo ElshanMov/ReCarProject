@@ -3,14 +3,13 @@ using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac;
-using Core.CrossCuttingConcerns.Validation;
+using Core.Aspects.Autofac.Caching;
+using Core.Aspects.Autofac.Transaction;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
-using FluentValidation;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Business.Concrete
 {
@@ -23,6 +22,7 @@ namespace Business.Concrete
             _carDal = carDal;
         }
         [SecuredOperation("product.add,admin")]
+        [CacheRemoveAspect("ICarService.Get")]
         [ValdiationAspect(typeof(CarValidator))]
         public IResult Add(Car car)
         {
@@ -42,6 +42,7 @@ namespace Business.Concrete
             return new SuccessDataResult<Car>();
         }
         [SecuredOperation("Product.List")]
+        [CacheAspect]
         public IDataResult<List<Car>> GetAll()
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll());
@@ -50,6 +51,14 @@ namespace Business.Concrete
         public IDataResult<List<Car>> GetAllByBrandId(int id)
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(x => x.BrandId == id));
+        }
+
+        [TransactionScopeAspect]
+        public IResult TransactionalOperation(Car car)
+        {
+            _carDal.Update(car);
+            _carDal.Add(car);
+            return new SuccessResult(Messages.CarUpdated);
         }
 
         public IResult Update(Car car)

@@ -13,6 +13,8 @@ namespace Business.Constants
         //Car
         public static string CarAdded = "Adding car is successful";
         public static string CarAddFail = "Add car failed";
+        public static string CarUpdated = "Updating car is successful";
+
 
         //User
         public static string UserAdded = "Adding user is successful";
