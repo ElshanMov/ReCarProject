@@ -7674,11 +7674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\obj\\",
+      "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7695,8 +7695,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
+            "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
             }
           }
         }

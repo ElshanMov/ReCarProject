@@ -7766,11 +7766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\obj\\",
+      "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7787,11 +7787,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
+            "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj"
             },
-            "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
+            "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
             }
           }
         }

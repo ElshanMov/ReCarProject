@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OsO9ZxSR7g6/Yp3s/+A9+939PeKB/G32PpIh4POY+GTLz9xs2eyzKBRlkx5G1S6YnB5fY6rsN/k6qbEY0L6gvQ==",
+  "dgSpecHash": "aZhsdot9+KS+k0N4QCaJ8gfuE8ox2eQp/xYISNEDQZbdjvZWzxQc9zHOf2SH7OaJ4rL+Ij0+tDjAV9nXdUoEdg==",
   "success": true,
-  "projectFilePath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elsha\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\elsha\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
@@ -150,7 +150,8 @@
     "C:\\Users\\elsha\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\elsha\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\elsha\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\elsha\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\elsha\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\elsha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

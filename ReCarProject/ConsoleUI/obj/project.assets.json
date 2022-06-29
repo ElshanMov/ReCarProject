@@ -7739,11 +7739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7760,14 +7760,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Business\\Business.csproj"
+            "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Business\\Business.csproj"
             },
-            "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
+            "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Entities\\Entities.csproj"
             }
           }
         }
@@ -7791,6 +7791,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

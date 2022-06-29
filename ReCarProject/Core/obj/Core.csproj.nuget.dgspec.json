@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {}
+    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
+    "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Masaüstü\\Projects\\ReCarProject\\ReCarProject\\Core\\obj\\",
+        "outputPath": "C:\\Masaüstü\\ReCarProject\\ReCarProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
